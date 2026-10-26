@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.vercel
+.env*
+.DS_Store
+
+# the original deck stays out of the repo; its slides are rendered in public/slides
+/Honeycomb and Spider Web.pdf
